@@ -4,7 +4,7 @@
 🎉 *The easiest way to back up your iPhone media on Windows.*
 
 **Open-iMediaSync** est un logiciel gratuit et libre pour Windows qui permet enfin d’exporter simplement les photos de votre iPhone vers votre PC — sans iTunes ni galère.  
-
+## GO TO RELEASES FOR DOWNLOAD !!!
 ---
 
 ## 🚀 Features / Fonctionnalités
@@ -38,5 +38,5 @@
 - winrt / win10toast – native Windows notifications  
 
 
-## GO TO RELASES FOR DOWNLOAD !!!
+## GO TO RELEASES FOR DOWNLOAD !!!
 
