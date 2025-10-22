@@ -5,6 +5,10 @@
 
 **Open-iMediaSync** est un logiciel gratuit et libre pour Windows qui permet enfin d’exporter simplement les photos de votre iPhone vers votre PC — sans iTunes ni galère.  
 ## GO TO RELEASES FOR DOWNLOAD !!!
+
+Open-iMediaSync is a community-driven project — it’s made to stay free, open, and useful for everyone.  
+If you have ideas, want to fix bugs, or improve the design, **fork the repo and make it better** 💙  
+Every contribution helps make iPhone photo transfers easier for everyone.
 ---
 
 ## 🚀 Features / Fonctionnalités
@@ -36,7 +40,4 @@
 - pymobiledevice3 – iPhone device access  
 - pillow + pillow-heif – image conversion  
 - winrt / win10toast – native Windows notifications  
-
-
-## GO TO RELEASES FOR DOWNLOAD !!!
 
